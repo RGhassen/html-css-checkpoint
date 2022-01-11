@@ -1,0 +1,173 @@
+
+.body{
+    background-color: black;
+}
+*{
+    font-weight: bold;
+}
+a:hover{
+    color: white;
+
+}
+nav{   
+    margin-top: 20px;
+    margin-left:750px;
+    color: springgreen; 
+}
+
+nav a {  
+    margin-left: 12px;
+    color: #900c3f;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: arial;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+a.see:hover{
+    color:red;
+}
+.name{   
+    margin-left: 22px;
+    padding-top: 50px;
+    color: #581845;
+    text-decoration: none;
+    font-size: 32px;
+    font-family: arial;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.hscreen{
+    background-image: url(img/car.jpg);
+    background-repeat: no-repeat;
+    background-size: 1333px 691px;
+    margin-top: -111px;
+    margin-bottom: 169px;
+    border-radius: 35px;
+    padding-bottom: 570px;
+}
+section{
+    margin-top: 118px;
+}
+h2 {
+    color: #c70039;
+    text-align: center;
+    font-style: oblique;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+p{
+    font-style: oblique;
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+}
+.logo{
+    border-radius: 48px;
+    width: 50px;
+    height: 50px;
+    margin-left: 652px;
+}
+label{
+    color:white;
+    font-size: 25px;
+}
+.li{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+dl dt , dl dd{
+    color:white;
+    font-style: oblique;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 8px;
+}
+table {
+    color: white;
+    margin-left: 212px;
+    color: white;
+    text-align: center;
+    border: solid 1px;
+}
+table th {
+    color: white;
+    font-style: oblique;
+    font-size: 30px;
+    padding-bottom: 8px;
+    border: solid 1px;
+    padding-left: 59px;
+    padding-right: 42px;
+}
+.about{
+    text-align:center;
+}
+.vid { 
+    font-size: 26px;
+    padding-left: 78px;
+    color: #ff5733;
+}
+.abvid{ 
+    display: inline-block;
+    padding-left: 43px;
+    padding-right: 110px;
+}
+form{
+    background-color: #ff5733;
+    border-radius: 77px;
+}
+.form{
+    display: block;
+    margin-left: 354px;
+    margin-top: 58px;
+    letter-spacing: 10px;
+}
+input{
+    display: block;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+select{ 
+    display: block;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+textarea{
+    display: block;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box
+}
+button{
+    border-radius: 56px;
+    display: block;
+    margin: 30px 651px 45px;
+    box-sizing: border-box;
+    width: 134px;
+    height: 47px;
+}
+.top{
+    text-decoration: none;
+    color: #c70039;
+    padding-left: 1084px;
+    font-size: 34px;
+}
+.footer{
+    color: white;
+    letter-spacing: 7px;
+    font-size: 14px;
+    text-align: center;
+}
